@@ -1,0 +1,11 @@
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/bin/Debug/netcoreapp2.0/Neural_Net.deps.json
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/bin/Debug/netcoreapp2.0/Neural_Net.runtimeconfig.json
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/bin/Debug/netcoreapp2.0/Neural_Net.runtimeconfig.dev.json
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/bin/Debug/netcoreapp2.0/Neural_Net.dll
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/bin/Debug/netcoreapp2.0/Neural_Net.pdb
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.csprojResolveAssemblyReference.cache
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.csproj.CoreCompileInputs.cache
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.AssemblyInfoInputs.cache
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.AssemblyInfo.cs
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.dll
+/Users/Tim/C#/NN_From_Scratch/Neural-Net-From-Scratch/Neural_Net/Neural_Net/obj/Debug/netcoreapp2.0/Neural_Net.pdb

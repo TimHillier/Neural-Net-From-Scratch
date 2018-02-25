@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{18499134-1347-4F95-975E-110FDF84F3EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Neural_Net/GenerateData.cs">
+    <Files>
+      <File FileName="Neural_Net/Program.cs" Line="15" Column="1" />
+      <File FileName="Neural_Net/Config.cs" Line="20" Column="33" />
+      <File FileName="Neural_Net/GenerateData.cs" Line="6" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Neural__Net PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
